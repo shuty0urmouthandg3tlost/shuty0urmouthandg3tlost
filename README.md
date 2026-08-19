@@ -1,10 +1,9 @@
 ## kuronuma
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shuty0urmouthandg3tlost/nqjdep02/main/Kimi%20ni%20Todoke%2C%20Kuronuma%20Sawako%20%281%29.gif" width="500">
-</p>
 <!--
 **shuty0urmouthandg3tlost/shuty0urmouthandg3tlost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shuty0rmouthandg3tlost/nqdjep02/main/Kimi%20ni%20Todoke%2C%20Kuronuma%20Sawako%20%281%29.gif" width="500">
+</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
